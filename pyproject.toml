@@ -1,0 +1,32 @@
+[tool.uv]
+index-strategy = "unsafe-best-match"
+
+[[tool.uv.index]]
+name = "pytorch"
+url = "https://download.pytorch.org/whl/cu118"
+
+[project]
+name = "MedCrab"
+version = "0.1.0"
+description = "MedCrab"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "torch",
+    "torchvision",
+    "transformers==4.46.3",
+    "tokenizers==0.20.3",
+    "accelerate",
+    "einops",
+    "addict",
+    "easydict",
+    "gradio>=5.0,<6.0",
+    "pymupdf>=1.26.6",
+    "timm",
+    "safetensors",
+]
+
+[tool.uv.sources]
+torch = { index = "pytorch" }
+torchvision = { index = "pytorch" }
+torchaudio = { index = "pytorch" }
