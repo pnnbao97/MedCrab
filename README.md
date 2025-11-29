@@ -19,8 +19,12 @@ git clone https://github.com/pnnbao97/MedCrab.git
 cd MedCrab
 uv sync
 
-# Run PDF/Image translator with OCR
-uv run pdf_translator
+# Run translator
+# If your GPU has >= 8 GB VRAM, you can run PDF/Image translation:
+uv run pdf_translator.py
+
+# Otherwise, for lower VRAM, run main translator:
+uv run main.py
 ```
 
 ## Performance
@@ -54,3 +58,4 @@ For research purposes only. Not intended for medical diagnosis or treatment deci
 ---
 
 **Author**: Phạm Nguyễn Ngọc Bảo | [Facebook](https://www.facebook.com/bao.phamnguyenngoc.5/)
+
