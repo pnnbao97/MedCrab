@@ -1,5 +1,8 @@
 # 🦀 MedCrab-1.5B
 
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/pnnbao97/MedCrab)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/pnnbao-ump/MedCrab)
+
 A specialized English→Vietnamese medical translation model fine-tuned from Qwen2.5-1.5B for clinical documents, research papers, and biomedical engineering content.
 
 ## Resources
@@ -58,4 +61,5 @@ For research purposes only. Not intended for medical diagnosis or treatment deci
 ---
 
 **Author**: Phạm Nguyễn Ngọc Bảo | [Facebook](https://www.facebook.com/bao.phamnguyenngoc.5/)
+
 
