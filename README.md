@@ -3,6 +3,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/pnnbao97/MedCrab)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-Model-yellow)](https://huggingface.co/pnnbao-ump/MedCrab)
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/47910ff3-66bc-4218-b55b-1460e6f40b6d" />
+
 A specialized English→Vietnamese medical translation model fine-tuned from Qwen2.5-1.5B for clinical documents, research papers, and biomedical engineering content.
 
 ## Resources
@@ -61,5 +63,6 @@ For research purposes only. Not intended for medical diagnosis or treatment deci
 ---
 
 **Author**: Phạm Nguyễn Ngọc Bảo | [Facebook](https://www.facebook.com/bao.phamnguyenngoc.5/)
+
 
 
