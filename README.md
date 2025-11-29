@@ -54,8 +54,13 @@ Evaluated on complex medical passages (100-150 words) covering multi-omics, cell
 > Phân tích tích hợp gần đây kết hợp giải trình tự RNA đơn bào, phiên mã không gian, và đo khối tế bào đa chiều đã xác định quần thể tế bào tua CD141⁺ chưa rõ đặc điểm ở ổ xơ hóa của bệnh nhân viêm gan nhiễm mỡ không do rượu (NASH).
 
 ## License
+Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
-Apache License 2.0 — Commercial use, modification, and distribution permitted with attribution.
+This project is licensed under CC BY-NC 4.0. You are free to:
+- Share and adapt the material for non-commercial purposes
+- Proper attribution must be given
+
+**Commercial Use:** All commercial applications require direct permission from the author. 
 
 ## Disclaimer
 
@@ -64,6 +69,7 @@ For research purposes only. Not intended for medical diagnosis or treatment deci
 ---
 
 **Author**: Phạm Nguyễn Ngọc Bảo | [Facebook](https://www.facebook.com/bao.phamnguyenngoc.5/)
+
 
 
 
